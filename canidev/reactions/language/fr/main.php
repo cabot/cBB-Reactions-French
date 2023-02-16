@@ -42,8 +42,8 @@ $lang = array_merge($lang, [
 	'REACTION_SCORE_LABEL_COUNT_MULTIPLE'	=> '%1$s and other %2$d users',
 	
 	'REACTIONS'			=> 'Réactions',
-	'REACTIONS_ALL'		=> 'All',
-	'REACTIONS_SCORE'	=> 'Score',
+	'REACTIONS_ALL'		=> 'Toutes',
+	'REACTIONS_SCORE'	=> 'Notes',
 	'TOTAL_REACTIONS'	=> 'Réactions',
 
 	'REACTION_ANGRY'	=> 'Grrr',
