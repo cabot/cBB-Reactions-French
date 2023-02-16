@@ -27,8 +27,8 @@ if(empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, [
-	'NO_ATTACH_REACTION'	=> 'Vous devez réagir à ce message pour pouvoir visualiser ses pièces jointes.',
-	'NO_POST_REACTION'		=> 'Vous devez réagir au premier message du sujet pour pouvoir répondre.',
+	'NO_ATTACH_REACTION'	=> 'Vous devez ajouter une réaction à ce message pour pouvoir visualiser ses pièces jointes.',
+	'NO_POST_REACTION'		=> 'Vous devez ajouter une réaction au premier message du sujet pour pouvoir répondre.',
 
 	'REACTIONS_NOTIFICATION_POST'		=> [
 		1	=> '%s a réagi à un message que vous avez publié',
@@ -38,8 +38,8 @@ $lang = array_merge($lang, [
 	'REACTIONS_NOTIFICATION_TYPE_POST'	=> 'Quelqu’un a réagi à un message que vous avez publié',
 
 	'REACTION_SCORE_LABEL_SIMPLE'			=> '%1$s',
-	'REACTION_SCORE_LABEL_COUNT_ONE'		=> '%1$s and other user',
-	'REACTION_SCORE_LABEL_COUNT_MULTIPLE'	=> '%1$s and other %2$d users',
+	'REACTION_SCORE_LABEL_COUNT_ONE'		=> '%1$s et un autre utilisateur',
+	'REACTION_SCORE_LABEL_COUNT_MULTIPLE'	=> '%1$s et %2$d autres utilisateurs',
 	
 	'REACTIONS'			=> 'Réactions',
 	'REACTIONS_ALL'		=> 'Toutes',
