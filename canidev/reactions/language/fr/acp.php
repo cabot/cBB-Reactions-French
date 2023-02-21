@@ -1,6 +1,6 @@
 <?php
 /**
- * [French [Fr]]]
+ * [French [Fr]]
  * French translation by cabot (https://cabotweb.fr)
  *
  * @package cBB Reactions
